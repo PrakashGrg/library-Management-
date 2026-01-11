@@ -31,11 +31,11 @@ python manage.py createsuperuser
 python manage.py runserver
 
 
-```github
+## gitHub
 
 git add .
 
 git commit -m "text"
 
 git push origin main
-```
+
