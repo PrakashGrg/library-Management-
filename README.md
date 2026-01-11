@@ -39,3 +39,53 @@ git commit -m "text"
 
 git push origin main
 
+1.  Django REST Framework Tutorial
+    https://www.django-rest-framework.org/tutorial/quickstart/
+    "Official DRF tutorial - exact CRUD + serializers"
+
+2.  Django Models & Validation
+    https://docs.djangoproject.com/en/5.1/topics/db/models/#validating-objects
+    "How clean() method works for future date validation"
+
+3.  Django Admin Customization
+    https://docs.djangoproject.com/en/5.1/ref/contrib/admin/#modeladmin-objects
+    "List_display, filters, search_fields exactly like your project"
+
+4.  STEP-BY-STEP TUTORIALS
+    Django + DRF CRUD Tutorial
+    https://www.geeksforgeeks.org/python/django-rest-api-crud-with-drf/​
+    "Complete ListCreateAPIView + RetrieveUpdateDestroyAPIView"
+
+5.  Django Library Management
+    https://pythongeeks.org/django-library-management-system/​
+    "Book model + CRUD operations tutorial"
+
+6.  DRF Filtering Tutorial
+    https://www.django-rest-framework.org/api-guide/filtering/#djangofilterbackend
+    "Exact genre & is_available filtering code"
+
+7.  PACKAGE DOCUMENTATION
+    Jazzmin Admin
+    https://django-jazzmin.readthedocs.io/
+    "Beautiful admin setup exactly like JAZZMIN_SETTINGS"
+
+8.  drf-yasg Swagger
+    https://drf-yasg.readthedocs.io/en/stable/
+    "Exact schema_view + swagger/redoc setup"
+
+9.  TESTING REFERENCES
+    Django Testing Docs
+    https://docs.djangoproject.com/en/5.1/topics/testing/tools/#assertraises
+    "TestCase + APITestCase for model & API tests"
+
+10. COMPLETE WORKING GITHUB EXAMPLES
+    Django Library CRUD
+    https://github.com/wpcodevo/Django_Crud_Project​
+    "Full working DRF CRUD project"
+
+11. Simple Library API
+    https://github.com/BurhanMohammad/Django-librarymanagement​
+
+12. Django REST CRUD (30min)
+    https://www.youtube.com/watch?v=KAMNkuqZGzQ
+
